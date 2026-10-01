@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <!-- Inteligência artificial: um chip com uma rede de "neurônios" dentro -->
+  <g stroke="#1E2A36" stroke-width="3" stroke-linecap="round">
+    <path d="M34 8v10M48 8v10M34 78v10M48 78v10M62 78v10M62 8v10M8 34h10M8 48h10M8 62h10M78 34h10M78 48h10M78 62h10" fill="none"/>
+    <rect x="18" y="18" width="60" height="60" rx="10" fill="#0E9384" stroke-linejoin="round"/>
+    <path d="M34 36l14 12-14 12M48 48h14" fill="none" stroke="#FFFFFF"/>
+    <circle cx="34" cy="36" r="5" fill="#FFFFFF"/>
+    <circle cx="34" cy="60" r="5" fill="#FFFFFF"/>
+    <circle cx="48" cy="48" r="5" fill="#FFC94A"/>
+    <circle cx="62" cy="48" r="5" fill="#FFFFFF"/>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  As 4 áreas do curso (e os 4 perfis do quiz).
+  Este arquivo é a única fonte dessas informações: index.php, areas.php,
+  quiz.php e resultado.php leem daqui (via includes/dados.php).
+  Para trocar a imagem, coloque outro arquivo com o mesmo nome em assets/img/areas/.
+-->
+<areas>
+  <area id="front">
+    <nome>Front-end / UX</nome>
+    <emoji>🎨</emoji>
+    <imagem>assets/img/areas/front.svg</imagem>
+    <oque>É a parte do app ou do site que você vê e toca: cores, botões, telas e animações.</oque>
+    <resumo>Você pensa em quem vai usar antes de pensar no código. Junta estética e lógica no mesmo lugar.</resumo>
+    <materias>
+      <materia>Interação Humano-Computador</materia>
+      <materia>Linguagem de Programação</materia>
+      <materia>Programação de Scripts</materia>
+      <materia>Engenharia de Software I, II e III</materia>
+    </materias>
+    <carreiras>
+      <carreira>Dev front-end</carreira>
+      <carreira>UX/UI designer</carreira>
+      <carreira>Product designer</carreira>
+    </carreiras>
+  </area>
+
+  <area id="back">
+    <nome>Back-end</nome>
+    <emoji>🧩</emoji>
+    <imagem>assets/img/areas/back.svg</imagem>
+    <oque>É o motor escondido por trás: o código que faz cada botão realmente funcionar.</oque>
+    <resumo>Você gosta do que ninguém vê mas todo mundo usa: a lógica que faz o sistema girar.</resumo>
+    <materias>
+      <materia>Algoritmos e Lógica de Programação</materia>
+      <materia>Programação Orientada a Objetos</materia>
+      <materia>Estruturas de Dados</materia>
+      <materia>Banco de Dados</materia>
+      <materia>Sistemas Distribuídos</materia>
+    </materias>
+    <carreiras>
+      <carreira>Dev back-end</carreira>
+      <carreira>Engenharia de software</carreira>
+      <carreira>Arquitetura de sistemas</carreira>
+    </carreiras>
+  </area>
+
+  <area id="dados">
+    <nome>Dados</nome>
+    <emoji>📊</emoji>
+    <imagem>assets/img/areas/dados.svg</imagem>
+    <oque>É transformar números e registros em respostas, como saber o que as pessoas vão querer ver.</oque>
+    <resumo>Você olha para uma planilha e enxerga uma história. Gosta de entender o porquê das coisas.</resumo>
+    <materias>
+      <materia>Banco de Dados</materia>
+      <materia>Laboratório de Banco de Dados</materia>
+      <materia>Estatística Aplicada</materia>
+      <materia>Programação Linear e Aplicações</materia>
+      <materia>Inteligência Artificial</materia>
+    </materias>
+    <carreiras>
+      <carreira>Análise de dados</carreira>
+      <carreira>Ciência de dados</carreira>
+      <carreira>Engenharia de dados</carreira>
+      <carreira>BI</carreira>
+    </carreiras>
+  </area>
+
+  <area id="infra">
+    <nome>Infra / Segurança</nome>
+    <emoji>🛡️</emoji>
+    <imagem>assets/img/areas/infra.svg</imagem>
+    <oque>São os computadores, as redes e a segurança que mantêm tudo no ar e protegido.</oque>
+    <resumo>Você é a pessoa que mantém tudo de pé. Sem você, nada funciona.</resumo>
+    <materias>
+      <materia>Arquitetura e Organização de Computadores</materia>
+      <materia>Sistemas Operacionais I e II</materia>
+      <materia>Redes de Computadores</materia>
+      <materia>Laboratório de Redes</materia>
+      <materia>Segurança da Informação</materia>
+    </materias>
+    <carreiras>
+      <carreira>Análise de infraestrutura</carreira>
+      <carreira>DevOps</carreira>
+      <carreira>Análise de segurança</carreira>
+      <carreira>Defesa cibernética</carreira>
+    </carreiras>
+  </area>
+</areas>

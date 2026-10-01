@@ -1,0 +1,66 @@
+[
+  {
+    "id": "logica",
+    "nome": "Lógica de programação",
+    "imagem": "assets/img/tecnologias/logica.svg",
+    "descricao": "É aprender a pensar passo a passo para ensinar o computador a resolver um problema, como seguir uma receita de bolo.",
+    "materia": "Algoritmos e Lógica de Programação",
+    "area": "back"
+  },
+  {
+    "id": "banco-de-dados",
+    "nome": "Banco de dados e SQL",
+    "imagem": "assets/img/tecnologias/banco-de-dados.svg",
+    "descricao": "É onde os sistemas guardam tudo (usuários, notas, pedidos), e o SQL é a linguagem para pedir exatamente a informação que você quer.",
+    "materia": "Banco de Dados",
+    "area": "dados"
+  },
+  {
+    "id": "html-css",
+    "nome": "HTML e CSS",
+    "imagem": "assets/img/tecnologias/html-css.svg",
+    "descricao": "O HTML monta a estrutura de uma página na internet e o CSS deixa ela bonita, com cores, fontes e espaços.",
+    "materia": "Programação de Scripts",
+    "area": "front"
+  },
+  {
+    "id": "redes",
+    "nome": "Redes de computadores",
+    "imagem": "assets/img/tecnologias/redes.svg",
+    "descricao": "É como os computadores conversam entre si, do Wi-Fi da sua casa até a internet inteira.",
+    "materia": "Redes de Computadores",
+    "area": "infra"
+  },
+  {
+    "id": "sistemas-operacionais",
+    "nome": "Sistemas operacionais",
+    "imagem": "assets/img/tecnologias/sistemas-operacionais.svg",
+    "descricao": "É o programa que comanda o computador ou o celular por baixo de tudo e deixa os outros apps funcionarem.",
+    "materia": "Sistemas Operacionais I e II",
+    "area": "infra"
+  },
+  {
+    "id": "inteligencia-artificial",
+    "nome": "Inteligência artificial",
+    "imagem": "assets/img/tecnologias/inteligencia-artificial.svg",
+    "descricao": "É ensinar o computador a aprender com exemplos, como o app que reconhece rostos em fotos ou sugere a próxima música.",
+    "materia": "Inteligência Artificial",
+    "area": "dados"
+  },
+  {
+    "id": "versionamento",
+    "nome": "Versionamento de código",
+    "imagem": "assets/img/tecnologias/versionamento.svg",
+    "descricao": "É um histórico de versões do código: dá para voltar atrás quando algo quebra e várias pessoas trabalham no mesmo projeto sem bagunça.",
+    "materia": "Laboratório de Engenharia de Software",
+    "area": "back"
+  },
+  {
+    "id": "testes",
+    "nome": "Testes de software",
+    "imagem": "assets/img/tecnologias/testes.svg",
+    "descricao": "É conferir se o sistema faz o que promete antes de chegar nas mãos das pessoas, caçando os erros antes que eles apareçam.",
+    "materia": "Engenharia de Software III",
+    "area": "back"
+  }
+]

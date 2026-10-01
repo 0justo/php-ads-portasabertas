@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180">
+  <!-- Back-end: engrenagens ligadas a um bloco de código, o "motor escondido" -->
+  <rect width="320" height="180" fill="#E0DEFF"/>
+  <circle cx="290" cy="150" r="52" fill="#5B54C9" opacity=".12"/>
+  <circle cx="28" cy="24" r="34" fill="#5B54C9" opacity=".12"/>
+  <!-- bloco de código -->
+  <rect x="36" y="34" width="138" height="112" rx="12" fill="#1E2A36"/>
+  <path d="M56 62l-10 10 10 10" fill="none" stroke="#FFC94A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="68" y="68" width="54" height="8" rx="4" fill="#E0DEFF"/>
+  <rect x="80" y="86" width="72" height="8" rx="4" fill="#5B54C9"/>
+  <rect x="80" y="104" width="46" height="8" rx="4" fill="#E0DEFF"/>
+  <rect x="68" y="122" width="30" height="8" rx="4" fill="#E0DEFF"/>
+  <!-- cabo -->
+  <path d="M174 90h26" stroke="#1E2A36" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 8"/>
+  <!-- engrenagem grande -->
+  <g transform="translate(236 78)">
+    <g fill="#5B54C9" stroke="#1E2A36" stroke-width="3" stroke-linejoin="round">
+      <path d="M-7-44h14l3 12 9 4 11-7 10 10-7 11 4 9 12 3v14l-12 3-4 9 7 11-10 10-11-7-9 4-3 12h-14l-3-12-9-4-11 7-10-10 7-11-4-9-12-3v-14l12-3 4-9-7-11 10-10 11 7 9-4z"/>
+    </g>
+    <circle r="13" fill="#E0DEFF" stroke="#1E2A36" stroke-width="3"/>
+  </g>
+  <!-- engrenagem pequena -->
+  <g transform="translate(270 132)">
+    <path d="M-5-26h10l2 7 6 3 6-4 7 7-4 6 3 6 7 2v10l-7 2-3 6 4 6-7 7-6-4-6 3-2 7h-10l-2-7-6-3-6 4-7-7 4-6-3-6-7-2v-10l7-2 3-6-4-6 7-7 6 4 6-3z" fill="#FFC94A" stroke="#1E2A36" stroke-width="3" stroke-linejoin="round"/>
+    <circle r="7" fill="#E0DEFF" stroke="#1E2A36" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <!-- Redes: computadores (bolinhas) conectados a um ponto central -->
+  <g stroke="#1E2A36" stroke-width="3" stroke-linecap="round">
+    <path d="M48 48L16 18M48 48l32-30M48 48L16 78M48 48l32 30M16 18h64M16 78h64" fill="none"/>
+    <circle cx="48" cy="48" r="13" fill="#D98A0B"/>
+    <circle cx="16" cy="18" r="9" fill="#FFFFFF"/>
+    <circle cx="80" cy="18" r="9" fill="#FFFFFF"/>
+    <circle cx="16" cy="78" r="9" fill="#FFFFFF"/>
+    <circle cx="80" cy="78" r="9" fill="#FFC94A"/>
+  </g>
+</svg>

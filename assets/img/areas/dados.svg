@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180">
+  <!-- Dados: painel com gráfico de barras, linha de tendência e pizza -->
+  <rect width="320" height="180" fill="#C9F1EA"/>
+  <circle cx="30" cy="150" r="44" fill="#0E9384" opacity=".12"/>
+  <circle cx="300" cy="22" r="36" fill="#0E9384" opacity=".12"/>
+  <!-- painel -->
+  <rect x="34" y="26" width="178" height="128" rx="12" fill="#FFFFFF" stroke="#1E2A36" stroke-width="3"/>
+  <path d="M56 132h138" stroke="#1E2A36" stroke-width="3" stroke-linecap="round"/>
+  <rect x="64" y="96" width="20" height="36" rx="4" fill="#C9F1EA" stroke="#1E2A36" stroke-width="2.5"/>
+  <rect x="94" y="78" width="20" height="54" rx="4" fill="#0E9384" stroke="#1E2A36" stroke-width="2.5"/>
+  <rect x="124" y="88" width="20" height="44" rx="4" fill="#C9F1EA" stroke="#1E2A36" stroke-width="2.5"/>
+  <rect x="154" y="58" width="20" height="74" rx="4" fill="#0E9384" stroke="#1E2A36" stroke-width="2.5"/>
+  <path d="M60 80l30-18 30 10 34-30" fill="none" stroke="#FFC94A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="154" cy="42" r="6" fill="#FFC94A" stroke="#1E2A36" stroke-width="2.5"/>
+  <!-- pizza -->
+  <circle cx="262" cy="74" r="34" fill="#FFFFFF" stroke="#1E2A36" stroke-width="3"/>
+  <path d="M262 74V40a34 34 0 0 1 32 45z" fill="#0E9384" stroke="#1E2A36" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M262 74l32 11a34 34 0 0 1-22 21z" fill="#FFC94A" stroke="#1E2A36" stroke-width="3" stroke-linejoin="round"/>
+  <!-- lupa -->
+  <circle cx="252" cy="136" r="14" fill="#FFFFFF" stroke="#1E2A36" stroke-width="3"/>
+  <path d="M262 146l14 14" stroke="#1E2A36" stroke-width="5" stroke-linecap="round"/>
+</svg>

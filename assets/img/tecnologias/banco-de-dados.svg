@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <!-- Banco de dados: o clássico cilindro de "discos" guardando registros -->
+  <g stroke="#1E2A36" stroke-width="3" stroke-linejoin="round">
+    <path d="M18 20v56c0 7 13 12 30 12s30-5 30-12V20" fill="#0E9384"/>
+    <path d="M18 39c0 7 13 12 30 12s30-5 30-12M18 58c0 7 13 12 30 12s30-5 30-12" fill="none"/>
+    <ellipse cx="48" cy="20" rx="30" ry="12" fill="#FFFFFF"/>
+  </g>
+  <g fill="#FFFFFF">
+    <circle cx="28" cy="50" r="3"/><circle cx="28" cy="69" r="3"/><circle cx="28" cy="84" r="3"/>
+  </g>
+</svg>
